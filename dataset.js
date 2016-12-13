@@ -1,0 +1,9 @@
+ var dataset = // array
+        [
+            {"Name":"My name is Alexa, ", "LastName":" ", "info":"and I am programmed to learn more about your family by Suren Maharaj. He created the skills I have to continue learning and as I interact with you, I will learn more and share this information with the next generation to come. ", "birthplace":"Trinidad and Tobago", "birthyear":"1978","birthday":"April 6"},
+			{"Name":"Suren", "LastName":"Maharaj", "info":"is the man. When he moved to the United States in 1994, he always wanted to join the military. He joined the United States Navy in 1998, and after a successful carrer there, he left in 2007 and continued his dreams to code and build applications. In his personal life, he is married to Monica ans have two children, Ajay, and Layla", "birthplace":"Trinidad and Tobago", "birthyear":"1978","birthday":"April 6"},
+			{"Name":"Monica", "LastName":"Maharaj", "info":"is married to Suren and moved here in 2013, after getting married, she has two cute children, Layla the chunky monkey, and Ajay","birthyear":"1980", "birthplace":"Chicago, Illinois", "birthday":"March 22"},
+			{"Name":"Ajay", "LastName":"Maharaj", "info":"is the son of Suren and Monica, he thinks he is spiderman at times and loves his sister, Layla","birthyear":"2014", "birthplace":"Boynton Beach, Florida", "birthday":"February 3"},
+			{"Name":"Layla", "LastName":"Maharaj", "info":"is the daughter of Suren and Monica, she has the cutest little face I have ever seen","birthyear": "2016", "birthplace":"Boynton Beach, Florida", "birthday":"June 3"},
+			{"Name":"Layla", "LastName":"Maharaj", "info":"is the daughter of Suren and Monica, she has the cutest little face I have ever seen","birthyear": "2016", "birthplace":"Boynton Beach, Florida", "birthday":"June 3"},
+        ];
